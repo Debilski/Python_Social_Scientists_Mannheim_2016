@@ -25,6 +25,14 @@ The exercises for the second half of the course were taken from Renee Chu’s ([
 
 Last not least, once you have looked into enough Python, I’d be happy if you applied for the next programming workshop ‘Advanced Scientific Programming in Python’ (https://python.g-node.org/wiki/). We are always welcoming applicants from different fields in science. (The site also lists some links to additional materials.)
 
+-- 
+
+2016, Rike-Benjamin Schuppner, Berlin
+
+Twitter: [@debilski](https://twitter.com/Debilski)
+
+Github: https://github.com/Debilski
+
 
 ```python
 
