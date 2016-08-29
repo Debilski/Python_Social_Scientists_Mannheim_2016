@@ -3,7 +3,7 @@
 
 Hi participants of the Python for Social Scientists session last week in Mannheim,
 
-in thise notebook, I’ll add a bit more information about the course and Python.
+in this file, I’ll add a bit more information about the course and Python.
 
 The slideshow was done with Jupyter notebook itself and a [plugin](https://github.com/damianavila/RISE) for animations. You can view it in [non-slideshow format](https://github.com/Debilski/Python_Social_Scientists_Mannheim_2016/blob/master/Introduction-to-Python.ipynb) online or just grab it from the repository: https://github.com/Debilski/Python_Social_Scientists_Mannheim_2016
 
