@@ -23,7 +23,7 @@ The exercises for the second half of the course were taken from Renee Chu’s ([
 
 ## Advanced Scientific Programming in Pyhton
 
-Last not least, once you have looked into enough Python, I’d be happy if you applied for the next programming workshop ‘Advanced Scientific Programming in Pyhton’ (https://python.g-node.org/wiki/). We are always welcoming applicants from different fields in science. (The site also lists some links to additional materials.)
+Last not least, once you have looked into enough Python, I’d be happy if you applied for the next programming workshop ‘Advanced Scientific Programming in Python’ (https://python.g-node.org/wiki/). We are always welcoming applicants from different fields in science. (The site also lists some links to additional materials.)
 
 
 ```python
